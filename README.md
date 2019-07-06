@@ -1,16 +1,8 @@
-<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size: 24px;"><b># 接口说明文档</b></span></p><p class="MsoNormal">前期准备：</p><p class="MsoNormal">1、准备开发环境&lt;br/&gt;</p><p class="MsoNormal">①启动mysql/Nodejs(8.1.1)&lt;br/&gt;</p><p class="MsoNormal">②准备写好的mySQ文件xz.sql</p>
 
-<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span># 接口说明文档</p><p class="MsoNormal">前期准备：</p><p class="MsoNormal">1、准备开发环境&lt;br/&gt;</p><p class="MsoNormal">①启动mysql/Nodejs(8.1.1)&lt;br/&gt;</p><p class="MsoNormal">②准备写好的mySQ文件xz.sql</p>
+<h1 style="margin-left:45.0pt;text-indent:-45.0pt;mso-list:l1 level1 lfo1"><!--[if !supportLists]--><span style="font-size: 24px;">一、</span><!--[endif]--><span style="font-family: 宋体; font-size: 24px;">用户模块</span><span lang="EN-US"><o:p></o:p></span></h1>
 
-<h1 style="margin-left:45.0pt;text-indent:-45.0pt;mso-list:l1 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:宋体;mso-bidi-theme-font:minor-fareast"><span style="mso-list:Ignore">一、</span></span><!--[endif]--><span style="font-family:
-宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin">用户模块</span><span lang="EN-US"><o:p></o:p></span></h1>
-
-<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.1、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:&quot;Calibri Light&quot;;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:major-fareast;
-mso-hansi-font-family:&quot;Calibri Light&quot;;mso-hansi-theme-font:major-latin">用户注册</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span style="font-size: 18px;">1.1、<span style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span></span><!--[endif]--><span style="font-family: 宋体; font-size: 18px;">用户注册</span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -341,10 +333,7 @@ Calibri;mso-hansi-theme-font:minor-latin">返回示例</span><span lang="EN-US" 
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.2、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:&quot;Calibri Light&quot;;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:major-fareast;
-mso-hansi-font-family:&quot;Calibri Light&quot;;mso-hansi-theme-font:major-latin">用户登录</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span style="font-size: 18px;">1.2、<span style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span></span><!--[endif]--><span style="font-family: 宋体; font-size: 18px;">用户登录</span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -601,10 +590,7 @@ Calibri;mso-hansi-theme-font:minor-latin">返回示例</span><span lang="EN-US" 
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.3、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:&quot;Calibri Light&quot;;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:major-fareast;
-mso-hansi-font-family:&quot;Calibri Light&quot;;mso-hansi-theme-font:major-latin">用户检索</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span style="font-size: 18px;">1.3、<span style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span></span><!--[endif]--><span style="font-family: 宋体; font-size: 18px;">用户检索</span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -978,12 +964,7 @@ mso-bidi-font-family:宋体;color:#00AA00;mso-font-kerning:0pt">}</span></b><spa
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
-
-<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.4、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:&quot;Calibri Light&quot;;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:major-fareast;
-mso-hansi-font-family:&quot;Calibri Light&quot;;mso-hansi-theme-font:major-latin">删除用户</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span style="font-size: 18px;">1.4、<span style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span></span><!--[endif]--><span style="font-family: 宋体; font-size: 18px;">删除用户</span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -1201,10 +1182,7 @@ Calibri;mso-hansi-theme-font:minor-latin">返回示例</span><span lang="EN-US" 
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.5、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:&quot;Calibri Light&quot;;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:major-fareast;
-mso-hansi-font-family:&quot;Calibri Light&quot;;mso-hansi-theme-font:major-latin">修改用户信息</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span style="font-size: 18px;">1.5、<span style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span></span><!--[endif]--><span style="font-family: 宋体; font-size: 18px;">修改用户信息</span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -1585,10 +1563,7 @@ Calibri;mso-hansi-theme-font:minor-latin">返回示例</span><span lang="EN-US" 
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.6、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:&quot;Calibri Light&quot;;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:major-fareast;
-mso-hansi-font-family:&quot;Calibri Light&quot;;mso-hansi-theme-font:major-latin">用户列表</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span style="font-size: 18px;">1.6、<span style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span></span><!--[endif]--><span style="font-family: 宋体; font-size: 18px;">用户列表</span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -2061,10 +2036,7 @@ mso-bidi-font-family:宋体;color:#00AA00;mso-font-kerning:0pt">}</span></b><spa
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.7、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:&quot;Calibri Light&quot;;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:major-fareast;
-mso-hansi-font-family:&quot;Calibri Light&quot;;mso-hansi-theme-font:major-latin">检测邮箱</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span style="font-size: 18px;">1.7、<span style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span></span><!--[endif]--><span style="font-family: 宋体; font-size: 18px;">检测邮箱</span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -2276,9 +2248,7 @@ Calibri;mso-hansi-theme-font:minor-latin">返回示例</span><span lang="EN-US" 
 <p class="MsoNormal" style="line-height:150%"><span lang="EN-US" style="font-size:
 12.0pt;line-height:150%">{ “code”:”200”, “msg”:”non-exists” }<o:p></o:p></span></p>
 
-<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
-
-<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span><span lang="EN-US"><o:p><span style="font-size: 18px;"></span></o:p></span><span lang="EN-US" style="font-size:12.0pt"><o:p></o:p></span></p>
 
 <h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
 major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.8、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:&quot;Calibri Light&quot;;mso-ascii-theme-font:
@@ -2498,10 +2468,7 @@ Calibri;mso-hansi-theme-font:minor-latin">返回示例</span><span lang="EN-US" 
 <p class="MsoNormal" style="line-height:150%"><span lang="EN-US" style="font-size:
 12.0pt;line-height:150%"><o:p>&nbsp;</o:p></span></p>
 
-<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.9、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:&quot;Calibri Light&quot;;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:major-fareast;
-mso-hansi-font-family:&quot;Calibri Light&quot;;mso-hansi-theme-font:major-latin">检测用户名</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span style="font-size: 18px;">1.9、<span style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span></span><!--[endif]--><span style="font-family: 宋体; font-size: 18px;">检测用户名</span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -2716,12 +2683,8 @@ Calibri;mso-hansi-theme-font:minor-latin">返回示例</span><span lang="EN-US" 
 <p class="MsoNormal" style="line-height:150%"><span lang="EN-US" style="font-size:
 12.0pt;line-height:150%"><o:p>&nbsp;</o:p></span></p>
 
-<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.10、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:
-&quot;Calibri Light&quot;;mso-ascii-theme-font:major-latin;mso-fareast-font-family:宋体;
-mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;Calibri Light&quot;;
-mso-hansi-theme-font:major-latin">退出登录</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span style="font-size: 18px;">1.10、<span style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-family: 宋体; font-size: 18px;">退出登录</span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -2758,12 +2721,8 @@ Calibri;mso-hansi-theme-font:minor-latin">返回示例</span><span lang="EN-US" 
 <p class="MsoNormal" style="line-height:150%"><span lang="EN-US" style="font-size:
 12.0pt;line-height:150%"><o:p>&nbsp;</o:p></span></p>
 
-<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.11、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:
-&quot;Calibri Light&quot;;mso-ascii-theme-font:major-latin;mso-fareast-font-family:宋体;
-mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;Calibri Light&quot;;
-mso-hansi-theme-font:major-latin">获取当前用户信息</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l2 level2 lfo2"><!--[if !supportLists]--><span style="font-size: 18px;">1.11、<span style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-family: 宋体; font-size: 18px;">获取当前用户信息</span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -2800,19 +2759,9 @@ Calibri;mso-hansi-theme-font:minor-latin">返回示例</span><span lang="EN-US" 
 <p class="MsoNormal" style="line-height:150%"><span lang="EN-US" style="font-size:
 12.0pt;line-height:150%"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
+<h1 style="margin-left:45.0pt;text-indent:-45.0pt;mso-list:l1 level1 lfo1"><!--[if !supportLists]--><span style="font-size: 24px;">二、</span><!--[endif]--><span style="font-family: 宋体; font-size: 24px;">用户模块</span><span lang="EN-US"><o:p></o:p></span></h1>
 
-<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
-
-<h1 style="margin-left:45.0pt;text-indent:-45.0pt;mso-list:l1 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:宋体;mso-bidi-theme-font:minor-fareast"><span style="mso-list:Ignore">二、</span></span><!--[endif]--><span style="font-family:
-宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin">用户模块</span><span lang="EN-US"><o:p></o:p></span></h1>
-
-<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l0 level2 lfo3"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.1、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:&quot;Calibri Light&quot;;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:major-fareast;
-mso-hansi-font-family:&quot;Calibri Light&quot;;mso-hansi-theme-font:major-latin">商品列表</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l0 level2 lfo3"><!--[if !supportLists]--><span style="font-size: 18px;">1.1、<span style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span></span><!--[endif]--><span style="font-family: 宋体; font-size: 18px;">商品列表</span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -3286,10 +3235,7 @@ mso-bidi-font-family:宋体;color:#00AA00;mso-font-kerning:0pt">}</span></b><spa
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l0 level2 lfo3"><!--[if !supportLists]--><span lang="EN-US" style="mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-major-latin;mso-bidi-font-family:&quot;Calibri Light&quot;;mso-bidi-theme-font:major-latin"><span style="mso-list:Ignore">1.2、<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><!--[endif]--><span style="font-family:宋体;mso-ascii-font-family:&quot;Calibri Light&quot;;mso-ascii-theme-font:
-major-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:major-fareast;
-mso-hansi-font-family:&quot;Calibri Light&quot;;mso-hansi-theme-font:major-latin">商品详情</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2 style="margin-left:38.25pt;text-indent:-38.25pt;mso-list:l0 level2 lfo3"><!--[if !supportLists]--><span style="font-size: 18px;">1.2、<span style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp; </span></span><!--[endif]--><span style="font-family: 宋体; font-size: 18px;">商品详情</span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -4389,10 +4335,7 @@ mso-bidi-font-family:宋体;color:#00AA00;mso-font-kerning:0pt">}</span></b><spa
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<h2><span lang="EN-US">1.3</span><span style="font-family:宋体;mso-ascii-font-family:
-&quot;Calibri Light&quot;;mso-ascii-theme-font:major-latin;mso-fareast-font-family:宋体;
-mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;Calibri Light&quot;;
-mso-hansi-theme-font:major-latin">、删除商品</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2><span style="font-size: 18px;">1.3<span style="font-family: 宋体;">、删除商品</span></span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -4610,12 +4553,7 @@ Calibri;mso-hansi-theme-font:minor-latin">返回示例</span><span lang="EN-US" 
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
-
-<h2><span lang="EN-US">1.4</span><span style="font-family:宋体;mso-ascii-font-family:
-&quot;Calibri Light&quot;;mso-ascii-theme-font:major-latin;mso-fareast-font-family:宋体;
-mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;Calibri Light&quot;;
-mso-hansi-theme-font:major-latin">、商品添加</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2><span style="font-size: 18px;">1.4<span style="font-family: 宋体;">、商品添加</span></span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -5466,17 +5404,9 @@ Calibri;mso-hansi-theme-font:minor-latin">返回示例</span><span lang="EN-US" 
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
+<h1 style="margin-left:45.0pt;text-indent:-45.0pt;mso-list:l1 level1 lfo1"><!--[if !supportLists]--><span style="font-size: 24px;">三、</span><!--[endif]--><span style="font-family: 宋体; font-size: 24px;">购物车模块</span><span lang="EN-US"><o:p></o:p></span></h1>
 
-<h1 style="margin-left:45.0pt;text-indent:-45.0pt;mso-list:l1 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:宋体;mso-bidi-theme-font:minor-fareast"><span style="mso-list:Ignore">三、</span></span><!--[endif]--><span style="font-family:
-宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin">购物车模块</span><span lang="EN-US"><o:p></o:p></span></h1>
-
-<h2><span lang="EN-US">1.1</span><span style="font-family:宋体;mso-ascii-font-family:
-&quot;Calibri Light&quot;;mso-ascii-theme-font:major-latin;mso-fareast-font-family:宋体;
-mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;Calibri Light&quot;;
-mso-hansi-theme-font:major-latin">、添加购物车</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2><span style="font-size: 18px;">1.1<span style="font-family: 宋体;">、添加购物车</span></span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -5629,10 +5559,7 @@ Calibri;mso-hansi-theme-font:minor-latin">返回实例</span><span lang="EN-US" 
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<h2><span lang="EN-US">1.2</span><span style="font-family:宋体;mso-ascii-font-family:
-&quot;Calibri Light&quot;;mso-ascii-theme-font:major-latin;mso-fareast-font-family:宋体;
-mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;Calibri Light&quot;;
-mso-hansi-theme-font:major-latin">、购物车列表</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2><span style="font-size: 18px;">1.2<span style="font-family: 宋体;">、购物车列表</span></span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -5866,10 +5793,7 @@ mso-bidi-font-family:宋体;color:#00AA00;mso-font-kerning:0pt">}</span></b><spa
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<h2><span lang="EN-US">1.3</span><span style="font-family:宋体;mso-ascii-font-family:
-&quot;Calibri Light&quot;;mso-ascii-theme-font:major-latin;mso-fareast-font-family:宋体;
-mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;Calibri Light&quot;;
-mso-hansi-theme-font:major-latin">、删除购物车</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2><span style="font-size: 18px;">1.3<span style="font-family: 宋体;">、删除购物车</span></span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -5987,10 +5911,7 @@ Calibri;mso-hansi-theme-font:minor-latin">返回实例</span><span lang="EN-US" 
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<h2><span lang="EN-US">1.4</span><span style="font-family:宋体;mso-ascii-font-family:
-&quot;Calibri Light&quot;;mso-ascii-theme-font:major-latin;mso-fareast-font-family:宋体;
-mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;Calibri Light&quot;;
-mso-hansi-theme-font:major-latin">、修改购物车条目中的购买数量</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2><span style="font-size: 18px;">1.4<span style="font-family: 宋体;">、修改购物车条目中的购买数量</span></span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -6143,10 +6064,7 @@ Calibri;mso-hansi-theme-font:minor-latin">返回实例</span><span lang="EN-US" 
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<h2><span lang="EN-US">1.5</span><span style="font-family:宋体;mso-ascii-font-family:
-&quot;Calibri Light&quot;;mso-ascii-theme-font:major-latin;mso-fareast-font-family:宋体;
-mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;Calibri Light&quot;;
-mso-hansi-theme-font:major-latin">、修改购物车条目中的是否勾选</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2><span style="font-size: 18px;">1.5<span style="font-family: 宋体;">、修改购物车条目中的是否勾选</span></span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -6306,10 +6224,7 @@ Calibri;mso-hansi-theme-font:minor-latin">返回实例</span><span lang="EN-US" 
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<h2><span lang="EN-US">1.6</span><span style="font-family:宋体;mso-ascii-font-family:
-&quot;Calibri Light&quot;;mso-ascii-theme-font:major-latin;mso-fareast-font-family:宋体;
-mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;Calibri Light&quot;;
-mso-hansi-theme-font:major-latin">、修改购物车条目中的是否勾选</span><span lang="EN-US"><o:p></o:p></span></h2>
+<h2><span style="font-size: 18px;">1.6<span style="font-family: 宋体;">、修改购物车条目中的是否勾选</span></span><span lang="EN-US"><o:p></o:p></span></h2>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -6416,12 +6331,7 @@ background:whitesmoke;word-break:break-all"><span class="objectbrace"><b><span l
 
 <p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal"><span lang="EN-US" style="font-size:12.0pt"><o:p>&nbsp;</o:p></span></p>
-
-<h1 style="margin-left:45.0pt;text-indent:-45.0pt;mso-list:l1 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="mso-bidi-font-family:宋体;mso-bidi-theme-font:minor-fareast"><span style="mso-list:Ignore">四、</span></span><!--[endif]--><span style="font-family:
-宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
-宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin">首页</span><span lang="EN-US"><o:p></o:p></span></h1>
+<h1 style="margin-left:45.0pt;text-indent:-45.0pt;mso-list:l1 level1 lfo1"><!--[if !supportLists]--><span style="font-size: 24px;">四、</span><!--[endif]--><span style="font-family: 宋体; font-size: 24px;">首页</span><span lang="EN-US"><o:p></o:p></span></h1>
 
 <p class="MsoNormal" style="line-height:150%"><span style="font-size:12.0pt;
 line-height:150%;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
